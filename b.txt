@@ -2,5 +2,6 @@ this is my file
 yes
 This is new line
 This the 4th line
+Adding from VM
 
 
